@@ -1,0 +1,32 @@
+.item1,.item2,.item3,.item4,.item5,.item6{
+margin-top: 10px;
+background-repeat: no-repeat;
+max-height: 400px;
+height: 400px;
+background-position: center;
+background-size: cover;
+}
+.item1{
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)), url('eat.jpg');
+
+}
+.item2{
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)), url('strawberry.jpg');
+
+}
+.item3{
+background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)),url('fruit.jpg');
+
+}
+.item4{
+background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)),url('apricot.jpg');
+
+}
+.item5{
+background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)),url('raspberry.jpg');
+
+}
+.item6{
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)), url('grapes.jpg');
+
+}
