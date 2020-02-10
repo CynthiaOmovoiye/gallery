@@ -7,26 +7,26 @@ background-position: center;
 background-size: cover;
 }
 .item1{
-background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)), url('eat.jpg');
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)), url('images/eat.jpg');
 
 }
 .item2{
-background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)), url('strawberry.jpg');
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)), url('images/strawberry.jpg');
 
 }
 .item3{
-background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)),url('fruit.jpg');
+background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)),url('images/fruit.jpg');
 
 }
 .item4{
-background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)),url('apricot.jpg');
+background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)),url('images/apricot.jpg');
 
 }
 .item5{
-background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)),url('raspberry.jpg');
+background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)),url('images/raspberry.jpg');
 
 }
 .item6{
-background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)), url('grapes.jpg');
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.1)), url('images/grapes.jpg');
 
 }
